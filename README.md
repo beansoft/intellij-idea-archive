@@ -5,6 +5,13 @@ License key: `4bPJxwtcZA20WXmT`
 
 Needs JDK 1.3 to run.
 
+## IntelliJ IDEA 3.0.5
+https://download.jetbrains.com/idea/idea-3.0.5v2.zip.
+User name: `IntelliJ Retro Fun`
+License key: `KLD0Z-OXQVD-OB46N-9I58K-UKNF7`
+
+You will also need [JDK 1.4.1_02](https://www.oracle.com/java/technologies/java-archive-javase-v14-downloads.html) to run it. Install it and then copy into the jre subdirectory inside the IDE directory.
+
 ## Screenshots
 
 ![Logo](screenshots/idea-logo.gif)
